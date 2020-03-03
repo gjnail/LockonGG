@@ -3,7 +3,7 @@ This is the home repository for the Valorant Stats Application and Discord Bot. 
 
 **Front End**
 - Typescript 
-- React or Angular (too be determined)
+- React
 
 **Backend**
 - C++ or .Net C# 

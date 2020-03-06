@@ -11,10 +11,6 @@ import {
     Nav,
     NavItem,
     NavLink,
-    Dropdown,
-    DropdownToggle,
-    DropdownMenu,
-    DropdownItem,
     InputGroup,
     InputGroupAddon,
     InputGroupText,
@@ -72,7 +68,6 @@ export default class NavExample extends React.Component {
                     </NavLink>
                     </NavItem>
                 </Nav>
-
                 <Nav navbar className="ml-auto">
                     <InputGroup size="sm" seamless>
                     <InputGroupAddon type="prepend">

@@ -31,6 +31,8 @@ This is the home repository for the Valorant Stats Application. The application 
     * Match history
     * Accuracy
 
+Here is our current tech stack
+
 **Front End**
 - Javascript 
 - React

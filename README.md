@@ -1,10 +1,39 @@
 # Valorant Stats Application / Discord Bot
-This is the home repository for the Valorant Stats Application and Discord Bot. Functionality is to be determined at this moment, but the goal is to create a useful tool similar to OP.gg or blitz.gg for Riot Games new first person hero shooter Valorant. The application will be using a basic webapp stack listed below
+This is the home repository for the Valorant Stats Application. The application is designed to provide benefits and information to the Valorant playerbase. This will allow users to gain insights about theirs and others gameplay and help players improve. We have a variety of things we wish to implement and provide the player base
+
+**Things we would like to offer players**
+* Character Stats
+    * Best Weapons
+    * Skill Orders
+    * Best Maps
+    * Optimal Strategies
+        * Defense sites 
+        * Offense sites
+    * Best Character pairings
+    * Pick rates
+* Match Stats
+    * Other player stats
+        * Common picked characters
+        * Winrates
+        * KDA
+        * Accuracy
+    * Map Stats
+        * Best Sites
+            * Early game
+            * Mid game
+            * Late game
+        * Attack or Defense Sided
+        * Overall Character vs Map winrates and playrates
+* Personal Stats
+    * KDA
+    * Winrates
+    * Character Pick rates
+    * Match history
+    * Accuracy
 
 **Front End**
 - Javascript 
 - React
 
 **Backend**
-- C++ or .Net C# 
-- Python (data processing and manipulation)
+- .Net C#

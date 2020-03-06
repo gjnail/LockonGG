@@ -80,7 +80,7 @@ export default class NavExample extends React.Component {
                 </Collapse>
             </Navbar>
             <Form>
-                <FormGroup>
+                <FormGroup className="center">
                     <FormInput placeholder="Enter player name here"/>
                     <Button>Search</Button> 
                 </FormGroup>

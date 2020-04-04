@@ -1,5 +1,5 @@
-# Valorant Stats Application
-This is the home repository for the Valorant Stats Application. The application is designed to provide benefits and information to the Valorant playerbase. This will allow users to gain insights about theirs and others gameplay and help players improve. We have a variety of things we wish to implement and provide the player base
+# Lockon.gg
+This is the home repository for Lockon.gg. The application is designed to provide benefits and information to the Valorant playerbase. This will allow users to gain insights about theirs and others gameplay and help players improve. We have a variety of things we wish to implement and provide the player base
 
 **Things we would like to offer players**
 * Character Stats
